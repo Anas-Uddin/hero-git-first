@@ -1,6 +1,7 @@
 body{
     background-color: rgb(72, 84, 97);
     padding: 7px;
+    background-image: url("wallpaperflare.com_wallpaper (19).jpg");
 }
 h1{
     color: aqua;
@@ -11,4 +12,8 @@ h3{
     color: aqua;
     text-align: center;
     text-shadow: 3px 3px 3px lightgreen, -3px -3px 3px tomato;
+}
+img{
+    display: block;
+    margin: auto;
 }
